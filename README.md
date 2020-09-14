@@ -1,2 +1,2 @@
 # fpdf
-# Custumize text with fpdf
+# Customize text with fpdf
